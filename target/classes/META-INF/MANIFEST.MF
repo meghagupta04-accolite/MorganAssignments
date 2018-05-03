@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: megha
+Build-Jdk: 1.8.0_161
+Main-Class: com.test.shop.cart.test.TranslatorFrame
+Created-By: Maven Integration for Eclipse
+
